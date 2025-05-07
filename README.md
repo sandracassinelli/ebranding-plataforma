@@ -17,7 +17,7 @@ Democratizar el acceso al branding profesional a través de una experiencia digi
 📍 En fase de planificación (arquitectura, brief, diseño de experiencia).
 
 ## 🤝 ¿Quiénes participan?
-Creado por Sandra Cassinelli y colaboradores técnicos en desarrollo, diseño y branding.
+Creado por Sandra Cassinelli, Jose Dacal, Jose Gallo y colaboradores técnicos en desarrollo, diseño y branding.
 
 ## 💡 Visión
 Una herramienta accesible y potente que permita a más personas y negocios elevar la calidad de su presencia de marca.
